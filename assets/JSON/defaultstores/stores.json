@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "CVS-Boston-01",
+      "loc": "31 Massachusetts Ave, Boston, MA"
+    },
+    {
+      "id": 2,
+      "name": "CVS-Boston-02",
+      "loc": "31 Washington St, Boston, MA"
+    },
+    {
+      "id": 3,
+      "name": "Walgreens-Boston-01",
+      "loc": "1603 Washington St, Boston, MA"
+    },
+    {
+      "id": 4,
+      "name": "Stop&Shop-Boston-01",
+      "loc": "13 E Broadway, South Boston, MA"
+    }
+  ]

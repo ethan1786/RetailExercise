@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "Coca-Cola Classic Cola, 2 liter",
+  "desc": "a carbonated soft drink sold in stores, restaurants, and vending machines throughout the world.",
+  "regp": 2.68,
+  "salp": 0.99,
+  "img": "coke",
+  "colo": [
+    "black",
+    "red"
+  ],
+  "stor": [
+    1,
+    2,
+    3,
+    4
+  ]
+}
